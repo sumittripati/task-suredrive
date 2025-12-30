@@ -1,3 +1,5 @@
+download frontend, backend node_module file: npm i
+
 for frontend requirement variables: 
 NEXT_PUBLIC_SUPABASE_URL=https://gmkmziujcpkaamgepzcc.supabase.co
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY=sb_publishable_CeO6nXPZv-u_dTnlB0QM7A_sJMIO19q
