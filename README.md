@@ -1,28 +1,3 @@
-# Task Management System
-
-A full-stack Task Management System built with Next.js, Express.js, and Supabase.
-
-## Features
-
-- **User Authentication**: Sign up and Login using Supabase Auth.
-- **Task Management**: Create, Read, Update, and Delete (CRUD) tasks.
-- **Security**: Row Level Security (RLS) ensures users can only access their own tasks.
-- **Validation**: Input validation on the backend to prevent invalid data.
-- **Responsive UI**: Built with Tailwind CSS for a modern look.
-
-## Tech Stack
-
-- **Frontend**: Next.js (App Router), Tailwind CSS, TypeScript
-- **Backend**: Node.js, Express.js, TypeScript
-- **Database**: Supabase (PostgreSQL)
-
-## Setup Instructions
-
-### Prerequisites
-
-- Node.js installed.
-- A Supabase project.
-
 ### 1. Database Setup (Supabase)
 
 Run the following SQL in your Supabase SQL Editor to create the table and policies:
@@ -76,7 +51,7 @@ using ( auth.uid() = user_id );
     ```env
     SUPABASE_URL=your_supabase_url
     SUPABASE_ANON_KEY=your_supabase_anon_key
-    PORT=5000
+    PORT=8000
     ```
     *Note: Since we are using RLS with the user's token, the Anon Key is sufficient.*
 
