@@ -1,18 +1,18 @@
 download frontend, backend node_module file: npm i
 
 for frontend requirement variables: 
-NEXT_PUBLIC_SUPABASE_URL=https://gmkmziujcpkaamgepzcc.supabase.co
-NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY=sb_publishable_CeO6nXPZv-u_dTnlB0QM7A_sJMIO19q
-NEXT_PUBLIC_API_URL=http://localhost:8000
+NEXT_PUBLIC_SUPABASE_URL=https:
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY=
+NEXT_PUBLIC_API_URL=http:
 
 
-for forbackend requirement variables: 
+for backend requirement variables: 
 PORT=8000
-SUPABASE_URL=https://gmkmziujcpkaamgepzcc.supabase.co
-SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdta216aXVqY3BrYWFtZ2VwemNjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjcwMTkyMDYsImV4cCI6MjA4MjU5NTIwNn0.Xx6hx3i071fUOlgA5BsZxOZes9ZmZmMn0iaN1Ca7-Hc
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdta216aXVqY3BrYWFtZ2VwemNjIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2NzAxOTIwNiwiZXhwIjoyMDgyNTk1MjA2fQ.CKu5bpTGe9r-Njj03fAJUdB9n5PO1CvdLT8dKfu69L4
-EMAIL_USER=t20648182@gmail.com
-EMAIL_PASS=sxvs kchj krzp lloi
-EMAIL_FROM=App with sumit <t20648182@gmail.com>
-OTP_SECRET=sumit12345
-OTP_EXPIRE=10m
+SUPABASE_URL=https:
+SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+EMAIL_USER=
+EMAIL_PASS=
+EMAIL_FROM=
+OTP_SECRET=
+OTP_EXPIRE=
